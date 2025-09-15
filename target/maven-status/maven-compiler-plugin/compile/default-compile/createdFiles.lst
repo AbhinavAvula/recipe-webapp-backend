@@ -1,0 +1,4 @@
+com\recipe\HibernateUtil.class
+com\recipe\Recipe.class
+com\recipe\RecipeServlet.class
+com\recipe\TestHibernate.class
